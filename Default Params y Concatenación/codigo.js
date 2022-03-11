@@ -1,5 +1,5 @@
 
-//Primero vamos a trabajar como se hacia antes de ES6 function newFunction (name, age, country) { var name = name || 'Andres';
+//Primero vamos a trabajar como se hacia antes de ES6 
 
 function newFunction(name, age, country){ 
 var name = name || 'Andres';
